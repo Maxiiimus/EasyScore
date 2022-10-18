@@ -1,0 +1,2 @@
+# EasyScore
+Basic scoreboard overlay
